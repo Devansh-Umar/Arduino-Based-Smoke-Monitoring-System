@@ -45,8 +45,16 @@ If smoke level exceeds the threshold:
 
 Along with the breadboard implementation, I recreated the full circuit schematic in **EDA Tool**.
 
+[Full Schematic](Schematic.jpeg)
+
 This was also my first practical use of EDA software for designing one of my Arduino circuits. The purpose here was not PCB development, but to convert the physical circuit into a cleaner schematic representation.
 
 ## What I Learned
 
-This project helped me understand how different parts of a small monitoring system work together. It also gave me some practice with Analog sensor readings, threshold-based decisions, LCD interfacing and schematic design.
+This project helped me understand how different parts of a small monitoring system work together. It also gave me some practice with Analog sensor readings, threshold-based decisions, LCD interfacing and schematic design & also the concept of symbol connections, PWR_Flag, ERC and footprints assigning.
+
+## See the full Project Report
+
+[Project Report](Smoke_Detector_Project_Report.pdf)
+
+### If you find this project useful, a star ⭐ on my repository would be memorable for me.
